@@ -1,5 +1,5 @@
 
-# Boraciu Ionut Sorin 325CA
+# Router Simulation
 
 - The router will wait in an infinite loop for a package to arrive
 
